@@ -25,11 +25,11 @@ class Player {
    text("player", width - 1000, 50);
 
    fill(this.life1);
-   rect(width - 1180, 60, 70, 30);
+   rect(180, 60, 70, 30);
    fill(this.life2);
-   rect(width - 1047, 60, 70, 30);
+   rect(250, 60, 70, 30);
    fill(this.life3);
-   rect(width - 974, 60, 70, 30);
+   rect(320, 60, 70, 30);
   
  
    
